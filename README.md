@@ -1,2 +1,3 @@
 # Java-Notepad
-A simple java notepad
+A simple notepad
+
