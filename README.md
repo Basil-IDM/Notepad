@@ -2,6 +2,8 @@
 
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
 
+<img src="NotePad.png">
+
 ### Hello there!
 
 - Welcome to our Java-powered notepad, a simple yet versatile tool for all your note-taking needs. Whether you're writing a quick note, drafting an essay, or coding your latest project, this notepad has you covered.
